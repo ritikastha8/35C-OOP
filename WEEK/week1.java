@@ -17,6 +17,7 @@ public class week1 {
 
             System.out.print("just");
 
+            System.out.print("  UPLOADAED");
     /* 3. Write a program that prints the following output:
 
      A "quoted" String is
@@ -42,3 +43,4 @@ public class week1 {
            System.out.println("\"is not the same as\"");
 }            
         }
+//jkdchiuhsd
