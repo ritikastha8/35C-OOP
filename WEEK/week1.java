@@ -43,3 +43,4 @@ public class week1 {
            System.out.println("\"is not the same as\"");
 }            
         }
+JH
